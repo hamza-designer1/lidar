@@ -1,0 +1,11 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.lidarThreadP.cpp.obj": [
+			"lidarThread.gen.cpp.obj",
+			"lidarThreadP.init.gen.cpp.obj",
+			"lidarThread.cpp.obj",
+			"lidarThreadP.cpp.obj"
+		]
+	}
+}
